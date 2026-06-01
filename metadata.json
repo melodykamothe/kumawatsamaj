@@ -1,0 +1,6 @@
+{
+  "name": "Kumawat Samaaj",
+  "description": "Bilingual community directory and support application for Kumawat Samaaj (Navi Mumbai and Mumbai), built with modern, accessible, and high-fidelity layouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
